@@ -11,5 +11,5 @@ The used data is available as follows:
 - The used dictionary of ICD10 names can be found in:
   - data/disease_dict.json
 - The expert curated data that was used for evalution can be found in:
-  - data/positives.tsv for curated positive relations
-  - data/negatives.tsv for curated negative relations
+  - data/positive_relations.tsv for curated positive relations
+  - data/negative_relations.tsv for curated negative relations
