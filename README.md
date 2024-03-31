@@ -7,9 +7,9 @@ The paper discusses the creation of a Directed Acyclic Graph (DAG) for causal re
 The used data is available as follows:
 
 - The main DAG with various metrics included can be found in:
-  :o: data/DDC_DAG.tsv
+  - data/DDC_DAG.tsv
 - The used dictionary of ICD10 names can be found in:
-  - :o: data/disease_dict.json
+  - data/disease_dict.json
 - The expert curated data that was used for evalution can be found in:
-  - :o: data/positives.tsv for curated positive relations
-  - :o: data/negatives.tsv for curated negative relations
+  - data/positives.tsv for curated positive relations
+  - data/negatives.tsv for curated negative relations
