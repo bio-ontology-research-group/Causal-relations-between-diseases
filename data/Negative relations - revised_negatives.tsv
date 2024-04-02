@@ -1,0 +1,51 @@
+Cause	outcome	cause name	outcome name
+H90.5	E21.0	Sensorineural hearing loss	primary hyperparathyroidism
+H83.1	E84	Labyrinthine fistula	cystic fibrosis
+H71.9	E05.9	cholesteatoma	thyrotoxicosis
+H93.1	E84	tinnitus	cystic fibrosis
+H66.9	E16.1	otitis media	hyperinsulinemia
+H40	E08-E13	glaucoma	diabetes
+H30.9	E03.9	retinitis	hypothyroidism
+H53.00	E83.52	amblyopia	hypercalcemia
+H54	E16.1	Visual impairment	hyperinsulinemia
+H90.5	K56.1	sensorineural hearing loss	intussusception
+H83.1	K76.9	Labyrinthine fistula	liver disease
+H71.9	K74.60	cholesteatoma	cirrhosis
+H93.1	K85.9	tinnitus	pancreatitis
+H66.9	K56.609	otitis media	intestinal obstruction
+H26	K85	cataract	acute pancreatitis
+H40	K72.1	glaucoma	end-stage liver disease
+H30.9	K83.1	retinitis	cholestatis
+H53.00	K76.6	amblyopia	portal hypertension
+H54	K74.60	visual impairment	cirrhosis
+L03.90	E85	cellulitis	amyloidosis
+L30.9	E08-E13	dermatitis	diabetes
+L50	E03.9	urticaria	hypothyroidism
+L65.9	E53.8	alopecia	vitamin b12 deficiency
+E08-E13	B34.9	diabetes	viral disease
+K73.9	B01.9	Hepatitis	varicella
+G62.9	B65	neuropathy	schistosomiasis
+J96.0	B69	respiratory failure	neurocysticercosis
+H54	B00.9	Visual impairment	herpes simplex
+D75.1	D69.6	polycythemia	thrombocytopenia
+E11	J45	diabetes	Asthma
+H25	G42	cataract	migraine
+M15	G40	Osteoarthiritis	epilepsy
+K21	G35	Gastroesophageal reflux disease (GERD)	Multiple sclerosis (MS)
+K76.6	E03.9	portal hypertension	hypothyroidism
+G40.909	N18.9	epilepsy	chronic kidney diseases
+D73.1	C90.0	hypersplenism	multiple myeloma
+G51.0	J98.4	Bells palsy	lung disease
+Q23.3	G35	Mitral regurgitation	multiple sclerosis
+H40	K76.9	glaucoma	liver disease
+I10	E21.3	hypertension	hyperparathyroidism
+H20.9	D69.6	uveitis	thrombocytopenia
+B01.9	N80	varicella	endometriosis
+I33.9	E55	endocarditis	vitamin D deficiency
+Q43.0	A69.22	Meckels diverticulum	polyneuropathy
+I85.01	E78.5	esophageal varices	hyperlipidemia
+E84	G93.81	cystic fibrosis	hippocampal sclerosis
+I31.4	N13.9	cardiac tamponade	obstructive nephropathy
+E06.3	L93	autoimmune thyroiditis	lupus
+K74.60	G62.9	cirrhosis	neuropathy
+I72	H26	aneurysm	cataract
