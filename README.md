@@ -3,7 +3,7 @@
 
  
 The paper discusses the creation of a Directed Acyclic Graph (DAG) for causal relations between diseases mapped to ICD10 identifiers and its use to improve polygenic risk scores.
-
+An interactive visualization of the DAG can be found [here](https://cosmograph.app/run/?data=https://raw.githubusercontent.com/stoonsi/Causal-relations-between-diseases/main/data/DDC_DAG.tsv&meta=https://raw.githubusercontent.com/stoonsi/Causal-relations-between-diseases/main/data/meta.tsv&gravity=0.48&repulsion=1.99&repulsionTheta=1.92&linkSpring=0.16&linkDistance=19&friction=0.93&renderLabels=true&renderHoveredLabel=true&renderLinks=true&linkArrows=true&nodeSizeScale=1.2&linkWidthScale=0.1&linkArrowsSizeScale=0.5&nodeSize=size-default&nodeColor=color-category&nodeLabel=id&linkWidth=width-avg-score&linkColor=color-avg-score&).
 The used data is available as follows:
 
 - The main DAG with various metrics included can be found in:
