@@ -11,6 +11,8 @@ The used data is available as follows:
 
 - The main DAG with various metrics included can be found in:
   - data/DDC_DAG.tsv
+- The full cyclic graph
+  - data/DDC_full_graph.tsv
 - The used dictionary of ICD10 names can be found in:
   - data/disease_dict.json
 - The expert curated data that was used for evalution can be found in:
