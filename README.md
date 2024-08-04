@@ -8,7 +8,7 @@ An interactive visualization of the DAG can be found [here](https://cosmograph.a
 ![image](https://github.com/stoonsi/Causal-relations-between-diseases/assets/63608176/187c24e9-2d88-43ce-8b8d-9fac1c473279)
 
 The used data is available as follows:
-
+- The Disease Ontology version we used is available through [this link](https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/v2023-01-30/src/ontology/doid.owl)
 - The main DAG with various metrics included can be found in:
   - data/DDC_DAG.tsv
 - The full cyclic graph
