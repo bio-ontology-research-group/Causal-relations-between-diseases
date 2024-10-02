@@ -18,4 +18,4 @@ The used data is available as follows:
 - The expert curated data that was used for evalution can be found in:
   - data/curated_positive_relations.tsv for curated positive relations
   - data/curated_negative_relations.tsv for curated negative relations
-- The autmatically generated Polygenic Risk Scores (PRSs) can be downloaded via [this link] (https://bio2vec.cbrc.kaust.edu.sa/data/BORD/PRS_files.zip)
+- The autmatically generated Polygenic Risk Scores (PRSs) can be downloaded via [this link](https://bio2vec.cbrc.kaust.edu.sa/data/BORD/PRS_files.zip)
