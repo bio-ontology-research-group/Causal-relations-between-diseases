@@ -1,5 +1,5 @@
 # Causal relations between diseases
- This repository is for our paper: **Causal relationships between diseases mined from the literature improve the use of polygenic risk scores** available [here](https://doi.org/10.1093/bioinformatics/btae639)
+ This repository is for our paper: **Causal relationships between diseases mined from the literature improve the use of polygenic risk scores** available [here](https://academic.oup.com/bioinformatics/article/40/11/btae639/7845254?login=true)
 
  
 The paper discusses the creation of a Directed Acyclic Graph (DAG) for causal relations between diseases mapped to ICD-10-CM identifiers and its use to improve polygenic risk scores.
